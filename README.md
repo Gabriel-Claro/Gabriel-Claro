@@ -2,116 +2,131 @@
 
 ## 🚀 Sobre mim
 
-Sou Analista de Infraestrutura de TI com mais de 5 anos de experiência em suporte técnico, infraestrutura, ambientes corporativos e atendimento executivo.
+Sou Engenheiro de Produção e profissional de Tecnologia da Informação, com mais de 5 anos de experiência em suporte técnico, infraestrutura e ambientes corporativos.
 
-Ao longo da minha carreira atuei em empresas como Carrefour Brasil, Positivo S+ e PRONTEC IT, trabalhando com administração de ambientes Microsoft, Active Directory, suporte N1/N2, gestão de incidentes, troubleshooting, ITIL e suporte a ambientes críticos.
+Ao longo da minha trajetória, atuei com infraestrutura de TI, ambientes Microsoft, Active Directory, Microsoft 365, suporte N1/N2, gestão de incidentes, resolução de problemas e suporte a ambientes críticos e executivos.
 
-Atualmente direciono meu desenvolvimento para Cloud Computing, Python, Inteligência Artificial Generativa e Automação, desenvolvendo projetos práticos durante minha formação em IA.
-
----
-
-## 🎯 Objetivo
-
-Busco desenvolver soluções inteligentes que unam Infraestrutura, Cloud, Python e Inteligência Artificial para automatizar processos, aumentar a produtividade e resolver problemas reais.
+Atualmente amplio minha atuação para Inteligência Artificial, Python, automação e Cloud Computing, desenvolvendo projetos práticos e aprofundando conhecimentos em IA Generativa, RAG, agentes de IA e modelos de linguagem.
 
 ---
 
-# 💼 Experiência
+## 💻 Tecnologias e conhecimentos
 
-- Infraestrutura de TI
-- Suporte Técnico N1/N2
-- Active Directory
-- Microsoft 365
-- ITIL
-- Gestão de Incidentes
-- Troubleshooting
-- Google Workspace
-- Windows 10 e Windows 11
-- Hardware
-- Inventário de ativos
-- Atendimento Executivo (COMEX)
-
----
-
-# 💻 Tecnologias
-
-### Linguagens
+### 🐍 Desenvolvimento e Dados
 
 - Python
 - SQL
+- Pandas
+- MySQL
+- SQLite
+- Google BigQuery
 
-### Inteligência Artificial
+### 🤖 Inteligência Artificial
 
-- OpenAI
+- Inteligência Artificial Generativa
 - LangChain
-- RAG
-- Prompt Engineering
-- Chatbots
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face
+- Transformers
+- NLP
+- Embeddings
+- Busca Semântica
+- Agentes e Multiagentes
+- Engenharia de Prompt
+- OpenAI API
 
-### Cloud
+### ⚙️ Automação
 
+- n8n
+- Make
+- Microsoft Copilot Studio
+- Automação de processos
+
+### ☁️ Infraestrutura e Cloud
+
+- Infraestrutura de TI
+- Active Directory
+- Microsoft 365
+- Windows
 - Cloud Computing
+- Suporte Técnico N1/N2
+- Gestão de Incidentes
+- ITIL
+- Troubleshooting
 
-### Versionamento
+### 🔧 Ferramentas
 
 - Git
 - GitHub
+- VS Code
 
 ---
 
-# 📚 Atualmente estudando
+## 📂 Projetos em destaque
 
-- Inteligência Artificial Generativa
-- Automação com Python
-- LangChain
-- RAG
-- Cloud Computing
-- Engenharia de Prompt
+### 🤖 Mentor de Chatbot
+
+Chatbot desenvolvido em Python utilizando LangChain e OpenAI API, com gerenciamento de histórico e memória de conversa.
+
+**Tecnologias:** Python • LangChain • OpenAI • python-dotenv
+
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/chatbot-mentor)
+
+### 🤗 Projetos com Hugging Face Transformers
+
+Projetos práticos utilizando modelos pré-treinados do ecossistema Hugging Face para diferentes aplicações de Inteligência Artificial.
+
+**Tecnologias:** Python • Hugging Face • Transformers • NLP
+
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/projetos-transformers-huggingface)
+
+### 🧠 Transfer Learning com Hugging Face
+
+Projeto utilizando Transfer Learning e modelos de NLP para aplicação prática de técnicas de Inteligência Artificial.
+
+**Tecnologias:** Python • Hugging Face • Transformers • NLP • Transfer Learning
+
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/abraçando-face-transferência-aprendizagem-redacoes)
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação
 
-**Engenharia de Produção**
-
+**Engenharia de Produção**  
 Universidade Paulista (UNIP)
 
 ---
 
-# 📜 Certificações
+## 📚 Formação em Inteligência Artificial
 
-- Especialista em IA — Nível 1 de 3 (Alura)
+Formação contínua com foco em desenvolvimento e aplicação de soluções de Inteligência Artificial, incluindo:
 
----
+- IA Generativa
+- LangChain e LangGraph
+- RAG e Busca Semântica
+- Hugging Face e Transformers
+- Agentes e Sistemas Multiagentes
+- Automação com IA
+- Governança, Ética e Compliance em IA
+- Aplicação de IA em produtos e negócios
 
-# 📂 Projetos
-
-### 🤖 Chatbot Mentor
-
-Projeto desenvolvido durante minha formação em Inteligência Artificial utilizando Python.
-
-Repositório:
-
-➡️ chatbot-mentor
-
----
-
-# 📈 Objetivos para 2026
-
-- Construir um portfólio sólido em Python
-- Desenvolver projetos de IA Generativa
-- Criar soluções utilizando LangChain
-- Aprender Cloud na prática
-- Contribuir com projetos Open Source
+🏅 **Checkpoint Especialista em IA — Nível 2 | Alura**
 
 ---
 
-# 📫 Contato
+## 🎯 Áreas de interesse
 
-💼 LinkedIn
-
-www.linkedin.com/in/gabrielclarocouto
+- Inteligência Artificial
+- Automação
+- Python
+- Cloud Computing
+- Infraestrutura de TI
+- Agentes de IA
+- IA aplicada a processos e negócios
 
 ---
 
-## ⭐ Obrigado por visitar meu perfil!
+## 📫 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielclarocuto)
