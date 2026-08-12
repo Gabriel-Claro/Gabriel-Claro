@@ -65,29 +65,39 @@ Atualmente amplio minha atuação para Inteligência Artificial, Python, automa�
 
 ## 📂 Projetos em destaque
 
-### 🤖 Mentor de Chatbot
+### 📝 Avaliador Automático de Redações com Hugging Face
 
-Chatbot desenvolvido em Python utilizando LangChain e OpenAI API, com gerenciamento de histórico e memória de conversa.
+Sistema de classificação automática de redações em português utilizando Transfer Learning, NLP e fine-tuning de um modelo DistilBERT.
 
-**Tecnologias:** Python • LangChain • OpenAI • python-dotenv
+O projeto contempla preparação dos dados, tokenização, treinamento e avaliação do modelo, geração de previsões e uma interface web desenvolvida com Gradio para utilização do modelo.
 
-➡️ [Ver projeto](https://github.com/Gabriel-Claro/chatbot-mentor)
+**Tecnologias:** Python • Hugging Face Transformers • DistilBERT • TensorFlow/Keras • NLP • Transfer Learning • Gradio
+
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/huggingface-transfer-learning-redacoes)
+
+---
 
 ### 🤗 Projetos com Hugging Face Transformers
 
-Projetos práticos utilizando modelos pré-treinados do ecossistema Hugging Face para diferentes aplicações de Inteligência Artificial.
+Conjunto de projetos práticos explorando modelos pré-treinados do ecossistema Hugging Face para diferentes tarefas de Inteligência Artificial.
 
-**Tecnologias:** Python • Hugging Face • Transformers • NLP
+Os experimentos incluem análise de sentimentos, Zero-Shot Classification, Question Answering, remoção de fundo de imagens e Inteligência Artificial Conversacional.
+
+**Tecnologias:** Python • Hugging Face Transformers • PyTorch • NLP • Visão Computacional • Gradio
 
 ➡️ [Ver projeto](https://github.com/Gabriel-Claro/projetos-transformers-huggingface)
 
-### 🧠 Transfer Learning com Hugging Face
+---
 
-Projeto utilizando Transfer Learning e modelos de NLP para aplicação prática de técnicas de Inteligência Artificial.
+### 🤖 GeoAI Mentor
 
-**Tecnologias:** Python • Hugging Face • Transformers • NLP • Transfer Learning
+Chatbot desenvolvido em Python utilizando LangChain e a API da OpenAI, com gerenciamento de histórico para manter o contexto entre diferentes mensagens de uma mesma sessão.
 
-➡️ [Ver projeto](https://github.com/Gabriel-Claro/abraçando-face-transferência-aprendizagem-redacoes)
+O projeto aplica conceitos de prompts, chains e memória de conversação utilizando `RunnableWithMessageHistory`.
+
+**Tecnologias:** Python • LangChain • OpenAI API • python-dotenv
+
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/chatbot-mentor)
 
 ---
 
@@ -100,7 +110,7 @@ Universidade Paulista (UNIP)
 
 ## 📚 Formação em Inteligência Artificial
 
-Formação contínua com foco em desenvolvimento e aplicação de soluções de Inteligência Artificial, incluindo:
+Formação contínua com foco no desenvolvimento e aplicação de soluções de Inteligência Artificial, incluindo:
 
 - IA Generativa
 - LangChain e LangGraph
