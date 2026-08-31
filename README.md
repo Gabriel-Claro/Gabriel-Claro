@@ -155,4 +155,4 @@ Formação contínua com foco no desenvolvimento e aplicação de soluções de 
 
 ## 📫 Contato
 
-💼 [LinkedIn](www.linkedin.com/in/gabrielclaro)
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielclaro)
