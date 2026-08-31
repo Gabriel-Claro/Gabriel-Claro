@@ -6,7 +6,7 @@ Sou Engenheiro de Produção e profissional de Tecnologia da Informação, com m
 
 Ao longo da minha trajetória, atuei com infraestrutura de TI, ambientes Microsoft, Active Directory, Microsoft 365, suporte N1/N2, gestão de incidentes, resolução de problemas e suporte a ambientes críticos e executivos.
 
-Atualmente amplio minha atuação para Inteligência Artificial, Python, automação e Cloud Computing, desenvolvendo projetos práticos e aprofundando conhecimentos em IA Generativa, RAG, agentes de IA e modelos de linguagem.
+Atualmente amplio minha atuação para Inteligência Artificial, Python, automação e Cloud Computing, desenvolvendo projetos práticos e aprofundando conhecimentos em IA Generativa, LLMs, RAG, agentes de IA, modelos de linguagem e automação de processos.
 
 ---
 
@@ -24,32 +24,43 @@ Atualmente amplio minha atuação para Inteligência Artificial, Python, automa�
 ### 🤖 Inteligência Artificial
 
 - Inteligência Artificial Generativa
+- Large Language Models (LLMs)
 - LangChain
 - LangGraph
 - Retrieval-Augmented Generation (RAG)
-- Hugging Face
-- Transformers
+- Hugging Face Transformers
 - NLP
 - Embeddings
 - Busca Semântica
 - Agentes e Multiagentes
+- Transfer Learning
+- Fine-tuning
 - Engenharia de Prompt
 - OpenAI API
+- MLflow
 
-### ⚙️ Automação
+### ⚙️ Automação e IA Aplicada
 
 - n8n
 - Make
 - Microsoft Copilot Studio
+- Claude Cowork
+- Claude Code
 - Automação de processos
+- Integração de soluções com IA
 
-### ☁️ Infraestrutura e Cloud
+### ☁️ Infraestrutura, Cloud e MLOps
 
 - Infraestrutura de TI
 - Active Directory
 - Microsoft 365
 - Windows
 - Cloud Computing
+- Fundamentos de AWS
+- Fundamentos de Microsoft Azure
+- Fundamentos de Google Cloud Platform (GCP)
+- Pipelines de IA em Cloud
+- Gerenciamento de experimentos com MLflow
 - Suporte Técnico N1/N2
 - Gestão de Incidentes
 - ITIL
@@ -71,7 +82,7 @@ Sistema de classificação automática de redações em português utilizando Tr
 
 O projeto contempla preparação dos dados, tokenização, treinamento e avaliação do modelo, geração de previsões e uma interface web desenvolvida com Gradio para utilização do modelo.
 
-**Tecnologias:** Python • Hugging Face Transformers • DistilBERT • TensorFlow/Keras • NLP • Transfer Learning • Gradio
+**Tecnologias:** Python • Hugging Face Transformers • DistilBERT • TensorFlow/Keras • NLP • Transfer Learning • Fine-tuning • Gradio
 
 ➡️ [Ver projeto](https://github.com/Gabriel-Claro/huggingface-transfer-learning-redacoes)
 
@@ -85,7 +96,7 @@ Os experimentos incluem análise de sentimentos, Zero-Shot Classification, Quest
 
 **Tecnologias:** Python • Hugging Face Transformers • PyTorch • NLP • Visão Computacional • Gradio
 
-➡️ [Ver projeto](https://github.com/Gabriel-Claro/projetos-transformers-huggingface)
+➡️ [Ver projeto](https://github.com/Gabriel-Claro/huggingface-transformers-projects)
 
 ---
 
@@ -112,22 +123,27 @@ Universidade Paulista (UNIP)
 
 Formação contínua com foco no desenvolvimento e aplicação de soluções de Inteligência Artificial, incluindo:
 
-- IA Generativa
+- IA Generativa e LLMs
 - LangChain e LangGraph
-- RAG e Busca Semântica
+- RAG, Embeddings e Busca Semântica
 - Hugging Face e Transformers
+- NLP, Transfer Learning e Fine-tuning
 - Agentes e Sistemas Multiagentes
-- Automação com IA
+- Automação com n8n, Make e Microsoft Copilot Studio
+- Claude Cowork e Claude Code
+- Cloud Computing e Pipelines de IA
+- MLflow e gerenciamento de experimentos
 - Governança, Ética e Compliance em IA
 - Aplicação de IA em produtos e negócios
 
-🏅 **Checkpoint Especialista em IA — Nível 2 | Alura**
+🏅 **Carreira de Especialista em IA | Alura**
 
 ---
 
 ## 🎯 Áreas de interesse
 
 - Inteligência Artificial
+- IA Generativa
 - Automação
 - Python
 - Cloud Computing
